@@ -20,22 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# eBook de finanças para leigos
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um pequeno eBook com dicas e orientações sobre finanças para pessoas que não estão acostumadas com gestão financeira familiar
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat gpt para roteirização e ajuda na escrita do livro
+Adobe express para criação da capa como ajuda de ia
+Microsoft word para juntar o conteudo e a capa e gerar arquivo pdf
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+primeiro defini a criação do assunto do ebook com dicas básicas sobre finanças, pedi para o chat gpt roteirizar um ebook com dicas básicas para finanças. depois pedi para desenvolver o conteudo em uma linguagem acessivel para leigos. Criei uma capa utilizando ai no adobe express. importei o conteudo para o word, adicionei a imagem e salvei em pdf para finalizar o conteudo.
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+eu já estou desenvolvendo algumas coisas neste sentido e ver este desafio foi algo que está me ajudando a abrir mais ainda a minha mente para criação de um conteudo que pode ajudar pessoas
 ```
 
 ### Exemplos e Insigths
